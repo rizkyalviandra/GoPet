@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../src/Firebase/index.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,QAAQ,MAAM,UAAU,CAAA;AAEpC,eAAe,QAAQ,CAAC,aAAa,CAAE;IACnC,MAAM,EAAE,yCAAyC;IACjD,UAAU,EAAE,4BAA4B;IACxC,WAAW,EAAE,mCAAmC;IAChD,SAAS,EAAE,YAAY;IACvB,aAAa,EAAE,wBAAwB;IACvC,iBAAiB,EAAE,cAAc;CAClC,CAAC,CAAA"}
